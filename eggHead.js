@@ -38,3 +38,8 @@
 //     <App />,
 //     document.getElementById('root')
 //   );
+
+
+//UNDERSTAND AND USE INTERPOLATION IN JSX
+//interpolation is the insertion of something of a different nature
+//ex: inserting a function inside text to make it more dynamic
