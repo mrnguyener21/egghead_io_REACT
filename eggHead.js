@@ -48,3 +48,6 @@
 //RERENDER A REACT APPLICATION
 //in react, if you re-render components the reactDOM.render will compare the previous component to the nearly rendered component and result only what is different 
 //this is good because then only the change will be re-render and the rest of the element iwll be left alone versus having to re-render the entire component
+
+//STYLE REACT COMPONENTS WITH CLASSNAME AND INLINE STYLES
+//YOU CAN USE style argument for in line CSS and then use it with react components to reduce any kind of repitions
